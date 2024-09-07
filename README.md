@@ -72,4 +72,4 @@ This analysis shows the preferences of **Bank Umum** towards different sectors o
 ## Contact
 For any queries or contributions, feel free to contact:
 - **Email**: fitristarius@gmail.com
-- **LinkedIn**: [Fitri Sagita]([https://linkedin.com/](https://id.linkedin.com/in/fitri-sagita-4a530a210))
+- **LinkedIn**: [Fitri Sagita]([https://id.linkedin.com/in/fitri-sagita-4a530a210])
