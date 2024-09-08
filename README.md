@@ -8,10 +8,9 @@ This project analyzes the distribution of banking credit in Indonesia over the p
 3. [Methodology](#methodology)
 4. [Results](#results)
 5. [Technologies Used](#technologies-used)
-6. [Usage](#usage)
-7. [Conclusion](#conclusion)
-8. [Future Work](#future-work)
-9. [Contact](#contact)
+6. [Conclusion](#conclusion)
+7. [Future Work](#future-work)
+8. [Contact](#contact)
 
 ## Project Overview
 This project provides an in-depth analysis of banking credit distribution to different sectors in Indonesia over the last two decades. It aims to identify trends in the allocation of funds and to determine which sectors received the highest share of credit from **Bank Umum** (public banks).
@@ -42,25 +41,6 @@ This project provides an in-depth analysis of banking credit distribution to dif
 - **Pandas & NumPy**: For handling and manipulating datasets.
 - **Matplotlib & Seaborn**: For data visualization.
 - **Jupyter Notebooks**: For documenting the workflow and results.
-
-## Usage
-To run this project locally:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/fitristachan/Banking-Credit-Analysis.git
-   ```
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the web scraping script to download PDFs:
-   ```bash
-   python scraper.py
-   ```
-4. Load the PDFs and run the extraction and analysis script:
-   ```bash
-   python analysis.py
-   ```
 
 ## Conclusion
 This analysis shows the preferences of **Bank Umum** towards different sectors over the last 20 years, providing insights into economic trends and public banking priorities in Indonesia.
