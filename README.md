@@ -36,7 +36,7 @@ This project provides an in-depth analysis of banking credit distribution to dif
 
 ## Technologies Used
 - **Python**: For web scraping, data extraction, cleaning, analysis, and visualization.
-- **BeautifulSoup & Requests**: For web scraping the OJK website to download the PDFs.
+- **Selenium**: For web scraping the OJK website to download the PDFs.
 - **PyPDF2 or pdfplumber**: For reading and extracting data from PDF files.
 - **Pandas & NumPy**: For handling and manipulating datasets.
 - **Matplotlib & Seaborn**: For data visualization.
